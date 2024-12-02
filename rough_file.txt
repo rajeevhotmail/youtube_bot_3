@@ -1,0 +1,8 @@
+🦅🌄🌳🌊 🦅 for the eagle 🌄 for mountains 🌳 for forests  🌊 for seas
+
+
+
+aasmaan se aaya farista pyaar ka sabak sik la ne. ☁️🕊️👼❤️📖🎶☁️ for aasmaan 🕊️ or 👼 for farishta ❤️ for pyaar  📖 for sabak  🎶 for lyrical tone
+
+netsh trace start capture=yes tracefile=d:\capture.etl
+
